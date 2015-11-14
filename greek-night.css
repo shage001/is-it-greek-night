@@ -1,0 +1,38 @@
+body {
+	font-family: Vollkorn;
+	text-align: center;
+}
+
+html, body {
+	height: 100%;
+}
+
+.page-wrap {
+	min-height: 100%;
+	/* equal to footer height */
+	margin-bottom: -100px;
+}
+
+.page-wrap:after {
+	content: "";
+	display: block;
+}
+
+.footer, .page-wrap:after {
+	height: 100px;
+}
+
+.title {
+	font-size: 3em;
+}
+
+.response {
+	font-size: 3em;
+}
+
+.separator {
+	width: 30%;
+	border: 0;
+	background-color: #000;
+	height: 1px;
+}

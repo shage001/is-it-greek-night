@@ -36,7 +36,7 @@
 <script type="text/javascript" src="//cdn.middlebury.edu/middlebury.edu/2010/js/midd.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"midd_fullwidth","theme_token":"Ls9Shytwn0IZxvGNnU1pZWLgTvqO8otI2jHVPqCAcQQ","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.effects.core.min.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"sites\/all\/modules\/date\/date_popup\/jquery.timeentry.pack.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/date\/date_popup\/date_popup.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"\/\/cdn.middlebury.edu\/middlebury.edu\/2010\/js\/go.js":1,"\/\/cdn.middlebury.edu\/middlebury.edu\/2010\/js\/midd.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/jquery.timeentry.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/cdn.middlebury.edu\/middlebury.edu\/2010\/css\/dining.css":1,"\/\/cdn.middlebury.edu\/middlebury.edu\/2010\/css\/midd.css":1,"sites\/all\/themes\/midd\/css\/alumni_profile.css":1,"http:\/\/fonts.googleapis.com\/css?family=Domine:700,regular|Open+Sans:300,700,700italic,italic,regular|Rosarivo:italic,regular\u0026subset=latin-ext":1}},"datePopup":{"edit-field-day-value-value-datepicker-popup-0":{"func":"datepicker","settings":{"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":0,"dateFormat":"DD, MM d, yy","yearRange":"-1:+1","fromTo":false,"defaultDate":"0y"}}},"urlIsAjaxTrusted":{"\/menus\/all\/all\/all\/menu.ics":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:f583b0ea592b562775f6b06424af50f9":{"view_name":"menus_test","view_display_id":"dining_menus","view_args":"","view_path":"node","view_base_path":"menus\/%\/%\/%\/menu.ics","view_dom_id":"f583b0ea592b562775f6b06424af50f9","pager_element":0}}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"midd_fullwidth","theme_token":"TbibwcP715i5AVfR7LVmY0dYZfwRFRBJwkreOLDV23c","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.effects.core.min.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"sites\/all\/modules\/date\/date_popup\/jquery.timeentry.pack.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/date\/date_popup\/date_popup.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"\/\/cdn.middlebury.edu\/middlebury.edu\/2010\/js\/go.js":1,"\/\/cdn.middlebury.edu\/middlebury.edu\/2010\/js\/midd.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/jquery.timeentry.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/cdn.middlebury.edu\/middlebury.edu\/2010\/css\/dining.css":1,"\/\/cdn.middlebury.edu\/middlebury.edu\/2010\/css\/midd.css":1,"sites\/all\/themes\/midd\/css\/alumni_profile.css":1,"http:\/\/fonts.googleapis.com\/css?family=Domine:700,regular|Open+Sans:300,700,700italic,italic,regular|Rosarivo:italic,regular\u0026subset=latin-ext":1}},"datePopup":{"edit-field-day-value-value-datepicker-popup-0":{"func":"datepicker","settings":{"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":0,"dateFormat":"DD, MM d, yy","yearRange":"-1:+1","fromTo":false,"defaultDate":"0y"}}},"urlIsAjaxTrusted":{"\/menus\/all\/all\/all\/menu.ics":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:971828cc8d8a7e775f5a37cf1ad695cf":{"view_name":"menus_test","view_display_id":"dining_menus","view_args":"","view_path":"node","view_base_path":"menus\/%\/%\/%\/menu.ics","view_dom_id":"971828cc8d8a7e775f5a37cf1ad695cf","pager_element":0}}}});
 //--><!]]>
 </script>
 </head>
@@ -127,7 +127,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <div class="view view-menus-test view-id-menus_test view-display-id-dining_menus view-dom-id-f583b0ea592b562775f6b06424af50f9">
+    <div class="view view-menus-test view-id-menus_test view-display-id-dining_menus view-dom-id-971828cc8d8a7e775f5a37cf1ad695cf">
             <div class="view-header">
       <p>Visitor Prices</p>
 <table><tr><th></th>
@@ -152,8 +152,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <div id="edit-field-day-value-value-wrapper"><div id="edit-field-day-value-value-inside-wrapper"><div  class="container-inline-date"><div class="form-item form-type-date-popup form-item-field-day-value-value">
   <div id="edit-field-day-value-value"  class="date-padding"><div class="form-item form-type-textfield form-item-field-day-value-value-date">
   <label class="element-invisible" for="edit-field-day-value-value-datepicker-popup-0">Date </label>
- <input type="text" id="edit-field-day-value-value-datepicker-popup-0" name="field_day_value[value][date]" value="Friday, November 13, 2015" size="20" maxlength="30" class="form-text" />
-<div class="description"> E.g., Friday, November 13, 2015</div>
+ <input type="text" id="edit-field-day-value-value-datepicker-popup-0" name="field_day_value[value][date]" value="Saturday, November 14, 2015" size="20" maxlength="30" class="form-text" />
+<div class="description"> E.g., Saturday, November 14, 2015</div>
 </div>
 </div>
 </div>
@@ -167,41 +167,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
   
       <div class="view-content">
-        <h3>Atwater</h3>
-<table class="views-view-grid cols-3">
-  
-  <tbody>
-          <tr class="row-1 row-first row-last">
-                  <td class="col-1 col-first">
-              
-  <div class="views-field views-field-field-meal">        <div class="field-content">Lunch</div>  </div>  
-  <div class="views-field views-field-body">        <div class="field-content"><p>Soup du Jour<br />
-Chicken Tagine<br />
-Baked Ziti<br />
-Dry Rubbed Tofu and Greens<br />
-Spinach Salad<br />
-Couscous<br />
-Peas with Mushrooms and Red Peppers</p>
-</div>  </div>          </td>
-              </tr>
-      </tbody>
-</table>
-  <h3>Language Tables/Proctor</h3>
-<table class="views-view-grid cols-3">
-  
-  <tbody>
-          <tr class="row-1 row-first row-last">
-                  <td class="col-1 col-first">
-              
-  <div class="views-field views-field-field-meal">        <div class="field-content">Lunch</div>  </div>  
-  <div class="views-field views-field-body">        <div class="field-content"><p>Cioppino<br />
-Casio e Pepe<br />
-Broccoli Bagna</p>
-</div>  </div>          </td>
-              </tr>
-      </tbody>
-</table>
-  <h3>Proctor</h3>
+        <h3>Proctor</h3>
 <table class="views-view-grid cols-3">
   
   <tbody>
@@ -210,49 +176,14 @@ Broccoli Bagna</p>
               
   <div class="views-field views-field-field-meal">        <div class="field-content">Breakfast</div>  </div>  
   <div class="views-field views-field-body">        <div class="field-content"><p>Oatmeal<br />
-Maypo<br />
+Cream of Wheat<br />
 Hard Boiled Eggs<br />
-Make Your Own Fried Egg Breakfast Sandwiches<br />
-Baked French Toast<br />
-Hash Browns</p>
-</div>  </div>          </td>
-                  <td class="col-2">
-              
-  <div class="views-field views-field-field-meal">        <div class="field-content">Lunch</div>  </div>  
-  <div class="views-field views-field-body">        <div class="field-content"><p><strong>PASTA STATION</strong><br />
-Marinara Sauce<br />
-Marinara Sauce with Pepperoni<br />
-Rigatoni</p>
-<p><strong>TRADITIONAL STATION</strong><br />
-Macaroni and Cheese with Bacon and Tomatoes<br />
-Squash Saute<br />
-Hot Dogs<br />
-Turkey Burgers</p>
-<p><strong>CHAR STATION</strong><br />
-Hamburgers<br />
-Onion Rings<br />
-Sweet Potato Fries</p>
-<p><strong>VEGETARIAN STATION</strong><br />
-Spicy Black Bean Burgers<br />
-Vegetarian Baked Beans</p>
-</div>  </div>          </td>
-                  <td class="col-3 col-last">
-              
-  <div class="views-field views-field-field-meal">        <div class="field-content">Dinner</div>  </div>  
-  <div class="views-field views-field-body">        <div class="field-content"><p><strong>PASTA STATION</strong><br />
-Marinara Sauce<br />
-Red Pepper Cream Sauce<br />
-Bowtie Pasta</p>
-<p><strong>TRADITIONAL STATION</strong><br />
-Chef's Choice Soup<br />
-Lamb Stew<br />
-Creamy Polenta<br />
-Baby Carrots</p>
-<p><strong>CHAR STATION</strong><br />
-Roasted Brussels Sprouts<br />
-Grilled Marinated Chicken Breast</p>
-<p><strong>VEGETARIAN STATION</strong><br />
-Barley and Mushroom Saute</p>
+Fried Eggs<br />
+Scrambled Eggs with Cheese<br />
+Chocolate Chip Pancakes<br />
+Sausage Patties<br />
+Bacon<br />
+Crispy Cubes</p>
 </div>  </div>          </td>
               </tr>
       </tbody>
@@ -266,61 +197,37 @@ Barley and Mushroom Saute</p>
               
   <div class="views-field views-field-field-meal">        <div class="field-content">Breakfast</div>  </div>  
   <div class="views-field views-field-body">        <div class="field-content"><p>Oatmeal<br />
-Maypo<br />
+Cream of Wheat<br />
 Hard Boiled Eggs<br />
-Fried Egg Breakfast Sandwiches<br />
-Vegetable Tofu Scramble<br />
-Pancakes<br />
+Garden Vegetable Omelets with Cheese<br />
+Curried Tofu Scramble<br />
+French Toast<br />
+Sausage Links<br />
 Make Your Own Waffle Bar<br />
-Seasoned Potato Wedges</p>
+Crispy Cubes</p>
 </div>  </div>          </td>
-                  <td class="col-2">
-              
-  <div class="views-field views-field-field-meal">        <div class="field-content">Lunch</div>  </div>  
-  <div class="views-field views-field-body">        <div class="field-content"><p><strong>PIZZA STATION</strong><br />
-Chicken, Spinach, Tomato and Feta Pizza<br />
-Spinach, Tomato and Feta Pizza<br />
-Quinoa with Orange Vinaigrette<br />
-Breadsticks</p>
-<p><strong>TRADITIONAL STATION</strong><br />
-Chicken Rice Soup<br />
-French Onion Soup<br />
-Hot Dogs<br />
-Vegetable Ziti<br />
-Carrots<br />
-Spinach</p>
-<p><strong>GRILL STATION</strong><br />
-Cheeseburger Bar with Assorted Toppings<br />
-Spicy Black Bean Burgers<br />
-Sweet Potato Fries</p>
-<p><strong>WOK STATION</strong><br />
-Sesame Seitan and Broccoli<br />
-Peas<br />
-White Rice</p>
-</div>  </div>          </td>
-                  <td class="col-3 col-last">
+                  <td class="col-2 col-last">
               
   <div class="views-field views-field-field-meal">        <div class="field-content">Dinner</div>  </div>  
   <div class="views-field views-field-body">        <div class="field-content"><p><strong>PIZZA STATION</strong><br />
-Pita Bar with Assorted Toppings<br />
-Zesty Quinoa Salad</p>
+Pepperoni Pizza<br />
+Cheese Pizza </p>
 <p><strong>TRADITIONAL STATION</strong><br />
-Chicken Rice Soup<br />
-French Onion Soup<br />
-Lamb Gyros<br />
-Pita Bread<br />
-Tzatziki Sauce<br />
-Spanakopita Casserole<br />
-Buttered Roasted Brussels Sprouts<br />
-Greek Potatoes with Lemon Vinaigrette</p>
+Chef's Choice Soup<br />
+Fried Chicken<br />
+Seitan Cassoulet<br />
+Mashed Potatoes<br />
+Penne Pasta with Butternut Squash and Goat Cheese<br />
+Penne Pasta<br />
+Marinara Sauce</p>
 <p><strong>GRILL STATION</strong><br />
-Grilled Greek Chicken<br />
-Curry Burgers<br />
-Fried Falafel</p>
+Grilled Zucchini<br />
+Riblets<br />
+Marinated Mushrooms</p>
 <p><strong>WOK STATION</strong><br />
-Whole Wheat Penne Pasta<br />
-Pepperjack Cheese Sauce<br />
-Tomato Pesto</p>
+Seafood Stir Fry<br />
+Broccoli<br />
+Jasmine Rice</p>
 </div>  </div>          </td>
               </tr>
       </tbody>

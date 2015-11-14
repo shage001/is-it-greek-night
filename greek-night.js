@@ -48,7 +48,13 @@ function isItGreekNight()
 
 	var response = document.getElementsByClassName( 'response' )[0];
 	if ( isGreek ) {
-		response.innerHTML = 'Yes! Hurry up and get to Ross!';
+		var d = new Date();
+		if ( d.getHours < 20 ) { // make sure the dining hall is still open
+			response.innerHTML = 'Yes! Hurry up and get to Ross!';
+		}
+		else {
+			response.ineerHTML = 'You just missed it!';
+		}
 	}
 	else {
 		response.innerHTML = 'Nope! Sorry.';
